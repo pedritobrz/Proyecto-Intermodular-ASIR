@@ -37,3 +37,5 @@ Diseñar e implementar una infraestructura tecnológica integral, segura y escal
 | **Personal de sala / Camareros** | Operadores del sistema de comandas y gestión de estancias. | Recepción clara e inmediata de los pedidos por sala y visualización del estado de ocupación en tiempo real. |
 | **Administrador de Sistemas (IT)** | Responsable del diseño, despliegue y mantenimiento de la infraestructura. | Facilidad de gestión, monitorización de la red, seguridad contra accesos no autorizados y respaldos de datos. |
 | **Gerencia / Propietario** | Titular del negocio y promotor de la inversión tecnológica. | Fiabilidad del sistema, protección de datos de ventas/clientes y optimización de los procesos operativos. |
+
+> Nota: Este documento se irá actualizando a medida que se concreten los requisitos técnicos del reto.
