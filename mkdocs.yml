@@ -1,0 +1,5 @@
+site_name: Proyecto Intermodular ASIR - Night Lounge
+
+nav:
+  - Inicio: index.md
+  - Introducción: 01_introduccion.md
